@@ -2,4 +2,8 @@
 
 Reproduces https://github.com/ethereum/solidity/issues/2884.
 
-Built with Embark. You can reproduce with `npm run test` or `yarn test` after cloning.
+Built with [Embark](https://embark.status.im/). 
+install it with 
+`npm install -g embark`
+
+Then you can reproduce with `npm run test` or `yarn test`.
